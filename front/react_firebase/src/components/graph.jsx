@@ -5,9 +5,6 @@ import {UserContext} from "../provider/UserProvider"
 
 
 
-
-
-
 export const Graph = (props) => {
 
   
