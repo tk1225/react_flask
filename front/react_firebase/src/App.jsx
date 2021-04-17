@@ -5,6 +5,9 @@ import {UserProvider} from './provider/UserProvider.jsx'
 
 import {Input_portfolio} from "./components/Input_portfolio.jsx"
 
+
+console.log("test")
+
 const  App=()=> {
   return (
     <div>
